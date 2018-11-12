@@ -8,7 +8,7 @@ Clone and generate the project files:
 
 ```
 cd yourCodeDirectory
-git clone https://github.com/mac-comp465-f18/geometryshadersctivity
+git clone https://github.com/mac-comp465-f18/geometryshadersactivity
 cd geometryshadersactivity
 mkdir build
 cd build
